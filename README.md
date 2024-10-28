@@ -1,4 +1,4 @@
-![IMG_20241028_150633](https://github.com/user-attachments/assets/a1eb6d79-b7a5-4941-bbb0-b19e2944ab98)
+![IMG_20241028_150928](https://github.com/user-attachments/assets/91028187-f26e-48a4-a6a8-bbc3fd184f5a)
 
 
 The project based on the esp 32 uses the "ESP32-2432S028R" board also known as "CYD".
