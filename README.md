@@ -12,7 +12,7 @@ some buttons,
 
 18650 li-ion battery,
 
-powerbank PVB,
+powerbank PCB (any BMS),
 
 Antena,
 
