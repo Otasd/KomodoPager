@@ -4,13 +4,20 @@ Link to information about the board https://github.com/witnessmenow/ESP32-Cheap-
 
 Components :
 
-esp32
-buzzer
-some buttons
-18650 li-ion battery
-powerbank PVB
-Antena
+esp32,
+
+buzzer,
+
+some buttons,
+
+18650 li-ion battery,
+
+powerbank PVB,
+
+Antena,
+
 (The standard antenna covers a radius of 250 meters,
 so I strongly recommend using an external one)
+
 
 And of course some wires
