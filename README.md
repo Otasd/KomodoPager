@@ -21,13 +21,6 @@ The project based on the ESP32 uses the "ESP32-2432S028R" board also known as "C
 Link to information about the board 
 https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display
 
-## Configuration
-
-Here you can configure some colors
-
-![image](https://github.com/user-attachments/assets/245bae60-2f44-4f5e-b7c0-9d4de7308b5c)
-
-
 ## Adding friend
 
 inside "General.cpp" you will see
@@ -36,6 +29,10 @@ uint8_t broadcastAddress[] = { 0x00, 0x00, 0x00, 0x00, 0x00, 0x00 };
 
 write MAC ardress of your friend here.
 
+## Configuration
 
+Here you can configure some colors
+
+![image](https://github.com/user-attachments/assets/245bae60-2f44-4f5e-b7c0-9d4de7308b5c)
 
 
