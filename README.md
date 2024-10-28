@@ -23,6 +23,7 @@ for default setup you need:
 ## Configuration
 
 Here you can configure some colors
+
 ![image](https://github.com/user-attachments/assets/245bae60-2f44-4f5e-b7c0-9d4de7308b5c)
 
 
