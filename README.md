@@ -10,19 +10,17 @@ Corresponded with friends via encrypted messages over short distances.
 
 Components :
 
-esp32,
+Esp32,
 
-buzzer,
+Buzzer,
 
-some buttons,
+Some buttons,
 
 18650 li-ion battery,
 
-charging pcb (like a TP4056),
+Charging PCB (like a TP4056),
 
-Antena,
-(The standard antenna covers a radius of 250 meters,
-so I strongly recommend using an external one)
-
+Antena
+(The standard antenna covers a radius of 250 meters,so I strongly recommend using an external one)
 
 And of course some wires
