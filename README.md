@@ -18,7 +18,7 @@ some buttons,
 
 18650 li-ion battery,
 
-charging pcb(like a TP4056),
+charging pcb (like a TP4056),
 
 Antena,
 (The standard antenna covers a radius of 250 meters,
