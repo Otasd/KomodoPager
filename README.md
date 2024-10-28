@@ -18,7 +18,7 @@ some buttons,
 
 18650 li-ion battery,
 
-powerbank PCB (any BMS),
+charging pcb(like a TP4056),
 
 Antena,
 (The standard antenna covers a radius of 250 meters,
