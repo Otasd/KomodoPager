@@ -8,7 +8,7 @@ Corresponded with friends via encrypted messages over short distances.
 
 ![IMG_20241028_152749](https://github.com/user-attachments/assets/1350f934-eb75-42d3-bbe7-894ad49ee3bf)
 
-##Components :
+## Components :
 
 - Esp32,
 - Buzzer,
@@ -18,3 +18,21 @@ Corresponded with friends via encrypted messages over short distances.
 - Antena
 (The standard antenna covers a radius of 250 meters,so I strongly recommend using an external one)
 - And of course some wires
+
+## Configuration
+
+![image](https://github.com/user-attachments/assets/245bae60-2f44-4f5e-b7c0-9d4de7308b5c)
+
+Here you can configure some colors
+
+## Adding friend
+
+inside "General.cpp" you will see 
+
+uint8_t broadcastAddress[] = { 0x00, 0x00, 0x00, 0x00, 0x00, 0x00 };
+
+write MAC ardress of your friend here.
+
+
+
+
