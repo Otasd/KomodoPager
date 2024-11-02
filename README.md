@@ -3,7 +3,6 @@ Corresponded with friends via encrypted messages over short distances.
 
 ![IMG_20241028_150928](https://github.com/user-attachments/assets/91028187-f26e-48a4-a6a8-bbc3fd184f5a)
 
-![IMG_20241028_152749](https://github.com/user-attachments/assets/1350f934-eb75-42d3-bbe7-894ad49ee3bf)
 
 ## Components 
 for default setup you need:
