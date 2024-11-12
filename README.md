@@ -34,7 +34,7 @@ Here you can configure some colors
 
 ![image](https://github.com/user-attachments/assets/245bae60-2f44-4f5e-b7c0-9d4de7308b5c)
 
-## best colors (my opinion)
+### best colors (my opinion)
 
 
 0x540 // green
