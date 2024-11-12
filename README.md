@@ -34,4 +34,29 @@ Here you can configure some colors
 
 ![image](https://github.com/user-attachments/assets/245bae60-2f44-4f5e-b7c0-9d4de7308b5c)
 
+## best colors (my opinion)
+
+
+0x540 // green
+
+0xFFFF // wight
+
+0x7FF // light blue
+
+0xF800 // red
+
+0xFFEA // banana yellow
+
+0x1F // dark blue
+
+0xAD55 // gray
+
+
+## Booting
+
+Set settings in tools menu like this :
+
+![image](https://github.com/user-attachments/assets/6dc54328-910e-4947-ae34-6c4f57f92ec3)
+
+
 
